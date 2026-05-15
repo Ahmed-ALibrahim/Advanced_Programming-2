@@ -12,4 +12,4 @@
 ![greet.sh execution](greet_screenshot.png))
 
 ## سجل Git
-(أرفق هنا صورة شاشة لسجل git log)
+![git log](gitlog_screenshot.png)
