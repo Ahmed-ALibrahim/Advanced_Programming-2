@@ -13,3 +13,4 @@ echo "Script name: $0"
 echo "First arg: $1"
 echo "Args count: $#"
 welcome "$1"
+greet_screenshot.png

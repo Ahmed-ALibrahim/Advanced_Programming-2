@@ -8,7 +8,8 @@
 5. git commit -m "Initialize shell lab workspace" — أول عملية commit.
 
 ## صورة تنفيذ السكربت
-(أرفق هنا صورة شاشة لتنفيذ greet.sh)
+(## صورة تنفيذ السكربت
+![greet.sh execution](greet_screenshot.png))
 
 ## سجل Git
 (أرفق هنا صورة شاشة لسجل git log)
